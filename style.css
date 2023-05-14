@@ -1,0 +1,22 @@
+body {
+  background-image: linear-gradient(to bottom, red, blue);
+  transition: background-image ease-in-out;
+  transition-delay: 2s;
+}
+
+.lower-div {
+    position: relative;
+    top: 240px;
+	border-radius: 67px;
+  }
+.roundboi {
+    width: 34%;
+    border-radius: 15px;
+    border: 3px gray solid;
+    padding: 5px 15px 5px 12px;
+    position: center;
+    top: -260;
+    left: 200;
+.label {
+	font-size: 100px;
+}
